@@ -26,7 +26,6 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
 li a:hover {
   background-color:gray;
 }
